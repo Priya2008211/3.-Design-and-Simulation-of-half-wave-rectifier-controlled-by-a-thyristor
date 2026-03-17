@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-03-17 at 8 38 07 PM](https://github.com/user-attachments/assets/bb414a57-e441-445c-a0de-c5291ebf329a)
+
 ## Output
+![WhatsApp Image 2026-03-17 at 8 42 39 PM](https://github.com/user-attachments/assets/e157bc77-4a8e-48f5-aeb2-fd3602052eaa)
+
 ## Result
+Thus,the half wave rectifier controlled by a thyristor is simulated by using MATLAB simuli
